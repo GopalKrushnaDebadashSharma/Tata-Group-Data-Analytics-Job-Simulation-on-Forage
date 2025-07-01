@@ -66,9 +66,6 @@ Collaborated with *Geldium Finance, a digital lending & credit card company, to 
 
 ---
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=yourusername&repo=tata-iq-genai-project&theme=radical" />
-</p>
 
 ---
 
