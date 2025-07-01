@@ -1,3 +1,6 @@
+<h1 align="center">📊 Tata Group Data Analytics Job Simulation on Forage</h1>
+<h1 align="center">Prediction To Credit Card Deliquency</h1>
+
 <h1 align="center">🚀 Gopal Krushna Debadash Sharma</h1>
 <h3 align="center">AI Transformation Consultant | GenAI | Data Analytics | Fintech</h3>
 
@@ -7,7 +10,6 @@
 
 ---
 
-<h1 align="center">📊 Tata iQ GenAI Credit Risk Project</h1>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&pause=1000&color=50FA7B&center=true&vCenter=true&width=500&lines=Predicting+Credit+Card+Delinquency+Using+GenAI;Ethical+AI+Interventions+in+Fintech;Built+for+Tata+iQ+Simulation+%7C+Forage" alt="Typing SVG" />
@@ -17,7 +19,7 @@
 
 ## 🔍 Project Overview
 
-📌 *Program*: Tata iQ GenAI-Powered Data Analytics Job Simulation  
+📌 *Program*: Prediction To Credit Card Deliquency  
 📌 *Platform*: Forage  
 📌 *Role*: AI Transformation Consultant  
 📌 *Team*: Financial Services Data & AI Strategy  
