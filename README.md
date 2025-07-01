@@ -1,72 +1,33 @@
 # Tata-Group-Data-Analytics-Job-Simulation-on-Forage
-# 💳 AI-Powered Credit Collections Strategy | Tata iQ x Forage
+<h1 align="center">🚀 Gopal Krushna Debadash Sharma</h1>
+<h3 align="center">AI Transformation Consultant | GenAI | Data Analytics | Fintech</h3>
 
-> 🔍 Predictive Risk Modeling · 🤖 Agentic AI Automation · ✅ Ethical AI Deployment  
-> 🏦 Client: Geldium Finance (Digital Lending & Credit Cards)  
-> 🎓 Job Simulation: Tata iQ GenAI-Powered Data Analytics (via Forage)
-
----
-
-## 🚀 Project Objective
-
-As an *AI Transformation Consultant* in a simulated engagement with *Tata iQ's Financial Services AI Strategy Team, I designed a GenAI-powered solution to help **Geldium Finance* reduce rising credit card delinquency rates.
-
-The goal:  
-✔ Predict customer delinquency risk  
-✔ Recommend AI-driven yet ethical interventions  
-✔ Drive repayment rates & ensure compliance
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&pause=1000&color=F75C7E&center=true&vCenter=true&width=435&lines=AI+%7C+GenAI+%7C+Fintech+Consultant;Always+Learning+%E2%9C%8C%EF%B8%8F;Love+Solving+Data+Problems+with+AI" alt="Typing SVG" />
+</p>
 
 ---
 
-## 🧠 What I Did
+## 📊 GitHub Metrics
 
-✅ *Data Analysis & Risk Factor Discovery*  
-- Analyzed behavioral & demographic patterns tied to missed payments
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical" alt="Gopal's GitHub Stats" width="48%"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=radical" alt="Top Languages" width="48%"/>
+</p>
 
-✅ *Predictive Modeling Using GenAI*  
-- Built a model to flag Tier 1/2/3 risk profiles using Logistic Regression & Random Forest
-
-✅ *Agentic AI Workflow Design*  
-- Automated outreach, risk scoring, follow-ups with human-in-the-loop for high-risk cases
-
-✅ *Responsible AI Integration*  
-- Fairness audits, SHAP explainability, GDPR compliance, hardship review protocols
-
-✅ *📊 PowerPoint Presentation Delivered*  
-- Created a clear, executive-ready deck covering:  
-  - System workflow  
-  - Ethical guardrails  
-  - Deployment roadmap  
-  - KPI impact (↓ delinquency, ↑ repayment)
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=yourusername&theme=onedark&row=1&column=7" width="100%"/>
+</p>
 
 ---
 
-## 📈 Outcomes & Business Impact
+## 💼 Tata iQ GenAI Project (Featured)
 
-| Metric | Result |
-|--------|--------|
-| 🎯 Delinquency Reduction | ↓ 15–25% via early risk detection |
-| 💰 Repayment Rate | ↑ 20% among Tier 2 & 3 |
-| ⚙ Operational Efficiency | ↑ via AI-driven automation |
-| 🤝 Customer Trust | ↑ via transparency & fairness |
-
----
-
-## 🛠 Skills Showcased
-
-- Data Analytics · GenAI Modeling · AI Ethics  
-- Business Strategy · Financial Risk Assessment  
-- Communication · Presentation Design
-
----
-
-## 📎 Project Files
-
-- ✅ AI_Collections_Strategy_Deck.pdf – Executive PowerPoint
-- ✅ model_pipeline.ipynb – Risk prediction logic (mocked)
-- ✅ README.md – You’re reading it 😉
-
----
+```txt
+🔹 Role: AI Transformation Consultant
+🔹 Platform: Forage | Team: Financial Services Data & AI
+🔹 Mission: Reduce credit card delinquency via predictive GenAI modeling
+🔹 Outcome: Forecasted risk, proposed fair AI-driven interventions, and improved repayments
 
 ## 🧩 Want to Collaborate?
 
