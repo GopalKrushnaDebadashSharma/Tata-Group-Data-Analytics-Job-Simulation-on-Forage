@@ -7,81 +7,74 @@
 
 ---
 
-## 🔗 Connect with Me
+<h1 align="center">📊 Tata iQ GenAI Credit Risk Project</h1>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/gopal-krushna-debadash-sharma-39128a25b/" target="_blank">
-    <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin">
-  </a>
-  <a href="mailto:debadashsharma98@gmail.com">
-    <img alt="Email" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&pause=1000&color=50FA7B&center=true&vCenter=true&width=500&lines=Predicting+Credit+Card+Delinquency+Using+GenAI;Ethical+AI+Interventions+in+Fintech;Built+for+Tata+iQ+Simulation+%7C+Forage" alt="Typing SVG" />
 </p>
 
 ---
 
-## 💼 Featured Project – Tata iQ GenAI Job Simulation
+## 🔍 Project Overview
 
-> *Program*: Tata iQ GenAI-Powered Data Analytics Simulation  
-> *Platform*: Forage  
-> *Role*: AI Transformation Consultant  
-> *Team*: Financial Services Data & AI Strategy  
-> *Supervisor*: Charithra, Senior Manager, Tata iQ  
-
-🔹 Collaborated with Geldium Finance to reduce increasing *credit card delinquency rates*.  
-🔹 Built a *GenAI-powered predictive model* to forecast at-risk customers.  
-🔹 Proposed ethical & fair *AI-driven interventions* to boost repayment behavior.  
-🔹 Presented solution with business impact, fairness, and explainability in mind.
-
-🧠 *Key Skills*:  
-GenAI • Data Analytics • Predictive Modeling • Fair AI • Fintech Risk Strategy • Business Communication
+📌 *Program*: Tata iQ GenAI-Powered Data Analytics Job Simulation  
+📌 *Platform*: Forage  
+📌 *Role*: AI Transformation Consultant  
+📌 *Team*: Financial Services Data & AI Strategy  
+📌 *Mentor*: Charithra (Senior Manager, Tata iQ)
 
 ---
 
-## 📊 GitHub Metrics
+## 🚀 Objective
+
+Collaborated with *Geldium Finance, a digital lending & credit card company, to tackle the rising credit card delinquency rates by developing an **AI-powered predictive solution* that:
+
+- Identifies customers at high risk of missing payments.
+- Recommends *ethical, explainable* intervention strategies.
+- Aligns with *fairness, transparency, and **business impact* goals.
+
+---
+
+## 🧠 My Responsibilities
+
+- 🔬 Analyzed behavioral data to detect risk signals and patterns.
+- 🤖 Developed a *GenAI predictive model* to forecast delinquency likelihood.
+- 📈 Proposed smart interventions for the *Head of Collections*.
+- 🧾 Designed a professional *PowerPoint deck* presenting solutions, ethics, and KPIs.
+
+---
+
+## 💡 Key Skills Used
+
+- 🧮 Data Analytics & Feature Engineering  
+- 🤖 Predictive Modeling with GenAI  
+- 💳 Financial Risk Strategy  
+- 📊 Business-Driven AI Deployment  
+- ⚖ Fairness & Transparency in AI  
+- 🎯 Executive Presentation & Communication
+
+---
+
+## 📂 Outcomes
+
+✅ AI-Powered Predictive Model  
+✅ Actionable Strategy for Debt Collection  
+✅ Ethical Framework for Responsible AI  
+✅ Impact Presentation Slide Deck
+
+---
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical" alt="Gopal's GitHub Stats" width="48%"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=radical" alt="Top Languages" width="48%"/>
-</p>
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=yourusername&theme=onedark&row=1&column=7" width="100%"/>
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=yourusername&repo=tata-iq-genai-project&theme=radical" />
 </p>
 
 ---
 
-## 🛠 Tech Stack
+## 📬 Contact
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Numpy-013243?style=flat&logo=numpy&logoColor=white"/>
-  <img src="https://img.shields.io/badge/GenAI-ff66cc?style=flat&logo=openai&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Matplotlib-11557C?style=flat&logo=plotly&logoColor=white"/>
-  <img src="https://img.shields.io/badge/ScikitLearn-F7931E?style=flat&logo=scikit-learn&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Microsoft%20Excel-217346?style=flat&logo=microsoftexcel&logoColor=white"/>
-</p>
+- ✉ *Email*: [debadashsharma98@gmail.com](mailto:debadashsharma98@gmail.com)  
+- 🔗 *LinkedIn*: [Gopal Krushna Debadash Sharma](https://www.linkedin.com/in/gopal-krushna-debadash-sharma-39128a25b/)
 
 ---
 
-## 📫 Let's Collaborate!
-
-💬 I’m open to collaboration in the areas of:  
-- AI Transformation in Financial Services  
-- Ethical AI Projects  
-- GenAI Product Building  
-- Fintech Analytics
-
----
-
-> “Solving real-world data problems using the power of AI and ethics-driven design.”
-
-## 🧩 Want to Collaborate?
-
-Let’s build fair, scalable AI systems for the real world.  
-*Reach out* if you’re working on ethical AI in fintech or beyond!
-
-🌐 [LinkedIn](https://www.linkedin.com/in/gopal-krushna-debadash-sharma-39128a25b/) · 💬 [Email](mailto:debadashsharma98@gmail.com)
-
----
+> ⚡ "This simulation helped me connect AI with real-world business impact in fintech. I'm excited to apply this to more real-world challenges."
