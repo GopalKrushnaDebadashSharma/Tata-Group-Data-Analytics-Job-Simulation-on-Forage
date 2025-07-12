@@ -73,6 +73,14 @@ Collaborated with *Geldium Finance*, a digital lending & credit card company, to
 
 ---
 
+## 📑 Final Presentation
+
+🎯 Download the final PowerPoint deck used for the Tata Group Credit Card Delinquency project:
+
+[![Download PPT](https://img.shields.io/badge/Download-Presentation-blue?style=for-the-badge&logo=microsoftpowerpoint&logoColor=white)](https://github.com/GopalKrushnaDebadashSharma/Tata-Group-Data-Analytics-Job-Simulation-on-Forage/blob/main/Presentation_Template_By_GDS.pptx)
+
+---
+
 ## 📬 Contact
 
 - ✉ *Email*: [debadashsharma98@gmail.com](mailto:debadashsharma98@gmail.com)  
