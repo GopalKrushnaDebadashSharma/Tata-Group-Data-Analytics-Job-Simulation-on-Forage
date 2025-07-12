@@ -1,5 +1,5 @@
 <h1 align="center">📊 Tata Group Data Analytics Job Simulation on Forage</h1>
-<h1 align="center">Prediction To Credit Card Deliquency</h1>
+<h1 align="center">Prediction To Credit Card Delinquency</h1>
 
 <h1 align="center">🚀 Gopal Krushna Debadash Sharma</h1>
 <h3 align="center">AI Transformation Consultant | GenAI | Data Analytics | Fintech</h3>
@@ -8,8 +8,15 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&pause=1000&color=F75C7E&center=true&vCenter=true&width=435&lines=AI+%7C+GenAI+%7C+Fintech+Consultant;Always+Learning+%E2%9C%8C%EF%B8%8F;Love+Solving+Data+Problems+with+AI" alt="Typing SVG" />
 </p>
 
----
-
+<!-- 🎞 Side-by-Side GIFs Section -->
+<div align="center">
+  <table>
+    <tr>
+      <td><img src="https://github.com/GopalKrushnaDebadashSharma/Tata-Group-Data-Analytics-Job-Simulation-on-Forage/blob/main/Table%20Boy%20Black%20Gif.gif" alt="GIF 1" width="400"/></td>
+      <td><img src="https://github.com/GopalKrushnaDebadashSharma/Tata-Group-Data-Analytics-Job-Simulation-on-Forage/blob/main/Credit%20Card%20Default%20GIF.gif" alt="GIF 2" width="400"/></td>
+    </tr>
+  </table>
+</div>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&pause=1000&color=50FA7B&center=true&vCenter=true&width=500&lines=Predicting+Credit+Card+Delinquency+Using+GenAI;Ethical+AI+Interventions+in+Fintech;Built+for+Tata+iQ+Simulation+%7C+Forage" alt="Typing SVG" />
@@ -19,7 +26,7 @@
 
 ## 🔍 Project Overview
 
-📌 *Program*: Prediction To Credit Card Deliquency  
+📌 *Program*: Prediction To Credit Card Delinquency  
 📌 *Platform*: Forage  
 📌 *Role*: AI Transformation Consultant  
 📌 *Team*: Financial Services Data & AI Strategy  
@@ -29,20 +36,20 @@
 
 ## 🚀 Objective
 
-Collaborated with *Geldium Finance, a digital lending & credit card company, to tackle the rising credit card delinquency rates by developing an **AI-powered predictive solution* that:
+Collaborated with *Geldium Finance*, a digital lending & credit card company, to tackle the rising credit card delinquency rates by developing an **AI-powered predictive solution** that:
 
 - Identifies customers at high risk of missing payments.
 - Recommends *ethical, explainable* intervention strategies.
-- Aligns with *fairness, transparency, and **business impact* goals.
+- Aligns with *fairness, transparency, and business impact* goals.
 
 ---
 
 ## 🧠 My Responsibilities
 
-- 🔬 Analyzed behavioral data to detect risk signals and patterns.
-- 🤖 Developed a *GenAI predictive model* to forecast delinquency likelihood.
-- 📈 Proposed smart interventions for the *Head of Collections*.
-- 🧾 Designed a professional *PowerPoint deck* presenting solutions, ethics, and KPIs.
+- 🔬 Analyzed behavioral data to detect risk signals and patterns.  
+- 🤖 Developed a *GenAI predictive model* to forecast delinquency likelihood.  
+- 📈 Proposed smart interventions for the *Head of Collections*.  
+- 🧾 Designed a professional *PowerPoint deck* presenting solutions, ethics, and KPIs.  
 
 ---
 
@@ -53,7 +60,7 @@ Collaborated with *Geldium Finance, a digital lending & credit card company, to 
 - 💳 Financial Risk Strategy  
 - 📊 Business-Driven AI Deployment  
 - ⚖ Fairness & Transparency in AI  
-- 🎯 Executive Presentation & Communication
+- 🎯 Executive Presentation & Communication  
 
 ---
 
@@ -62,10 +69,7 @@ Collaborated with *Geldium Finance, a digital lending & credit card company, to 
 ✅ AI-Powered Predictive Model  
 ✅ Actionable Strategy for Debt Collection  
 ✅ Ethical Framework for Responsible AI  
-✅ Impact Presentation Slide Deck
-
----
-
+✅ Impact Presentation Slide Deck  
 
 ---
 
@@ -76,4 +80,4 @@ Collaborated with *Geldium Finance, a digital lending & credit card company, to 
 
 ---
 
-> ⚡ "This simulation helped me connect AI with real-world business impact in fintech. I'm excited to apply this to more real-world challenges."
+> ⚡ *"This simulation helped me connect AI with real-world business impact in fintech. I'm excited to apply this to more real-world challenges."*
